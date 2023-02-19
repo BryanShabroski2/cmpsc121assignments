@@ -1,0 +1,82 @@
+Creating Bingo Cards.
+Creating Card for Alfred.
+Creating Card for Betty.
+Creating Card for Charlie.
+Creating Card for David.
+Creating Card for Elaine.
+Creating Card for Francis.
+=================
+ Game 1
+=================
+Resetting called numbers
+Calling Numbers
+
+BINGO Player David, 39 numbers called.
+---------------------------------------
+B	I	N	G	O
+4	18	40	*51	70	
+*5	25	38	*54	64	
+7	*20	FREE	*60	75	
+15	22	*35	*58	62	
+14	19	33	*57	*73	
+---------------------------------------
+=================
+ Game 2
+=================
+Resetting called numbers
+Calling Numbers
+
+BINGO Player Alfred, 29 numbers called.
+---------------------------------------
+B	I	N	G	O
+3	19	38	48	*72	
+1	*28	31	*59	*75	
+*15	23	FREE	49	*68	
+*14	27	34	58	*73	
+*9	29	*36	*60	*62	
+---------------------------------------
+=================
+ Game 3
+=================
+Resetting called numbers
+Calling Numbers
+
+BINGO Player Betty, 33 numbers called.
+---------------------------------------
+B	I	N	G	O
+10	*24	41	*53	*67	
+5	*21	*32	*52	71	
+*12	*22	FREE	55	64	
+4	*17	*38	49	63	
+13	*16	40	51	*74	
+---------------------------------------
+=================
+ Game 4
+=================
+Resetting called numbers
+Calling Numbers
+
+BINGO Player Francis, 13 numbers called.
+---------------------------------------
+B	I	N	G	O
+5	19	37	55	*75	
+3	28	43	56	62	
+1	20	FREE	53	65	
+*12	*29	*40	*46	*67	
+11	30	33	*50	68	
+---------------------------------------
+=================
+ Game 5
+=================
+Resetting called numbers
+Calling Numbers
+
+BINGO Player Betty, 30 numbers called.
+---------------------------------------
+B	I	N	G	O
+*10	24	*41	53	67	
+5	*21	32	52	*71	
+12	22	FREE	*55	64	
+*4	17	*38	*49	63	
+*13	*16	40	51	*74	
+---------------------------------------
