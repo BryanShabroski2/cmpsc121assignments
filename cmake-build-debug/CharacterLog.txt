@@ -1,0 +1,49 @@
+=======================================================
+Character Name: Voltron Steel
+Age: 34
+height: 6.7
+Strength: 7
+Intelligence: 3
+Faction: Electric Kingdom
+----------------------------------------
+Primary weapon: Hammer of Archbald
+-- Weapon damage = 9
+-- Weapon weight = 8.7
+----------------------------------------
+Secondary weapon: Sword of Dunmore
+-- Weapon damage = 7
+-- Weapon weight = 5.4
+=======================================================
+
+Character Name: Griffith Stormwind
+Age: 100
+height: 9.9
+Strength: 1
+Intelligence: 9
+Faction: Skyward Kingdom
+----------------------------------------
+Primary weapon: Wand of Worthington
+-- Weapon damage = 10
+-- Weapon weight = 1.3
+----------------------------------------
+Secondary weapon: Spear of Scranton
+-- Weapon damage = 6
+-- Weapon weight = 4.3
+=======================================================
+
+Character Name: Jim
+Age: 1
+height: 1.1
+Strength: 5
+Intelligence: 5
+Faction: Jimbo
+----------------------------------------
+Primary weapon: Axe of Abington
+-- Weapon damage = 8
+-- Weapon weight = 6.7
+----------------------------------------
+Secondary weapon: Axe of Abington
+-- Weapon damage = 8
+-- Weapon weight = 6.7
+=======================================================
+
